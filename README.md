@@ -62,7 +62,7 @@ Rising temperatures and urbanization have amplified the intensity and frequency 
            
         
 - Step 10 : Built KPIs, maps, line and bar charts, tables, and text insights. Customized layout, color theme, tooltips, and interactions.
-- Step 11 : Visual filters (Slicers) were added for four fields named "City" and "Year".
+- Step 11 : Visual filters (Slicers) were added for fields named "City" and "Year".
 
  
  # Report Snapshot (Power BI DESKTOP)
